@@ -1,5 +1,5 @@
 #License
-(CC BY-NC-ND 4.0)
+CC BY-NC-ND 4.0
 
 #One Time
 Folder Directory must be "C:\UVKiosk"
