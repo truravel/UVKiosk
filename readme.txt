@@ -1,3 +1,4 @@
+#License
 (CC BY-NC-ND 4.0)
 
 #One Time
@@ -12,6 +13,6 @@ Run "2-Install Components"
 Edit files\config.py with credential information
 Once Installed, Launch 3-Run at startup with Task Scheduler
 
-Tested for:
+#Tested for:
 Unifi Video 3.9.11 in Windows 7/10
 Recommended Google Chrome v68
